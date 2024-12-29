@@ -47,7 +47,7 @@ Aqui estão alguns projetos nos quais estou trabalhando ou que já concluí:
 
 ---
 
-## Contribuições  
+
 
 ## Contribuições  
 
