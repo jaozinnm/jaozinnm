@@ -50,9 +50,11 @@ Aqui estão alguns projetos nos quais estou trabalhando ou que já concluí:
 ## Contribuições  
 
 ## Contribuições  
-![snake gif](https://github.com/jaozinnm/jaozinnm/blob/output/github-contribution-grid-snake.svg)
 
-[![Leia o README](https://github-readme-stats.vercel.app/api/pin/?username=jaozinnm&repo=jaozinnm&theme=react)](https://github.com/jaozinnm/jaozinnm)
+
+[![Acompanhe meu trabalho!](https://github-readme-stats.vercel.app/api/pin/?username=jaozinnm&repo=jaozinnm&theme=radical&title_color=FF5733&text_color=FFFFFF&icon_color=FFC300&bg_color=1A1B27)](https://github.com/jaozinnm/jaozinnm)
+
+
 
 
 
