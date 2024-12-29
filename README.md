@@ -48,6 +48,8 @@ Aqui estão alguns projetos nos quais estou trabalhando ou que já concluí:
 ---
 
 ## Contribuições  
-![Snake animation](https://github.com/joaorafael/joaorafael/blob/output/snake.svg)
+![Snake animation](https://github.com/jaozinnm/joaozinnm/blob/output/github-contribution-grid-snake.svg) 
+
+
 
 
