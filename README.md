@@ -23,19 +23,33 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia e esse e um 
 ---
 
 ## Ferramentas e Tecnologias  
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
+  <!-- Linguagens -->
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+  <!-- Ferramentas -->
+  <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Joao-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Joao-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+  <!-- Web / Backend básico -->
+  <img align="center" alt="Joao-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+  <!-- Sistema -->
+  <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
 
 ---
 
 ## Projetos  
 Aqui estão alguns projetos nos quais estou trabalhando ou que já concluí:  
-- 🖥️ **[Meu Portfólio](#)** (em breve!)  
+- 🖥️ **[Meu Portfólio](https://jaozinnm.github.io/Portfolio-Jo-o-Rafael/)**  
 - 🌟 Projetos iniciais com **HTML, CSS, JavaScript e Python**.  
 - 🚧 Experimentos com **Java** (em andamento).  
 
