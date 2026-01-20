@@ -48,10 +48,26 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia e esse e um 
 ---
 
 ## Projetos  
-Aqui estão alguns projetos nos quais estou trabalhando ou que já concluí:  
+Atualmente, meus projetos vão além do desenvolvimento front-end e envolvem soluções mais completas, integrando back-end, banco de dados e modelos de negócio.  
+
 - 🖥️ **[Meu Portfólio](https://jaozinnm.github.io/Portfolio-Jo-o-Rafael/)**  
-- 🌟 Projetos iniciais com **HTML, CSS, JavaScript e Python**.  
-- 🚧 Experimentos com **Java** (em andamento).  
+  Portfólio pessoal onde apresento meus principais projetos, estudos e evolução como desenvolvedor.  
+
+- 🌐 **Aplicações Web Full Stack**  
+  Projetos utilizando **JavaScript**, **Node.js** e **TypeScript**, com foco em APIs, lógica de negócio e integração entre front-end e back-end.  
+
+- 🐍 **Projetos com Python**  
+  Desenvolvimento de scripts e aplicações voltadas para **automação**, **processamento de dados** e soluções práticas para problemas reais.  
+
+- 🗄️ **Infraestrutura e Banco de Dados**  
+  Modelagem e integração com **bancos de dados relacionais**, estruturação de dados e organização de ambientes de desenvolvimento.  
+
+- ☁️ **Projetos no Modelo SaaS**  
+  Desenvolvimento de aplicações pensadas como serviço, envolvendo autenticação, escalabilidade e manutenção contínua.  
+
+- 🏛️ **Projetos Institucionais e Públicos**  
+  Participação em projetos voltados para **prefeituras**, como sistemas de gestão com **QR Code** (ex.: controle e monitoramento de lixeiras), focados em organização, rastreabilidade e usabilidade.  
+
 
 ---
 
