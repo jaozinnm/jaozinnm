@@ -82,13 +82,10 @@ Atualmente, meus projetos vão além do desenvolvimento front-end e envolvem sol
 
 ## Contribuições  
 
+<div align="center">
+
+![Snake animation](https://github.com/joaorafael/joaorafael/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 [![Acompanhe meu trabalho!](https://github-readme-stats.vercel.app/api/pin/?username=jaozinnm&repo=jaozinnm&theme=radical&title_color=FF5733&text_color=FFFFFF&icon_color=FFC300&bg_color=1A1B27)](https://github.com/jaozinnm/jaozinnm)
-
-
-
-
-
-
-
-
-
