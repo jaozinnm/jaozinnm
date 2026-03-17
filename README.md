@@ -84,7 +84,7 @@ Atualmente, meus projetos vão além do desenvolvimento front-end e envolvem sol
 
 <div align="center">
 
-![Snake animation](https://github.com/joaorafael/joaorafael/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jaozinnm/jaozinnm/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
