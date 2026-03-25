@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia e esse e um 
 
 <div align="center">
   <!-- Estatísticas de GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorafael&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaozinnm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozinnm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ Atualmente, meus projetos vão além do desenvolvimento front-end e envolvem sol
 
 <div align="center">
 
-![Snake animation](https://github.com/jaozinnm/jaozinnm/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jaozinnm/jaozinnm/output/github-contribution-grid-snake.svg)
 
 </div>
 
