@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil! Sou estudante de tecnologia e desenvolvedor em constant
   </a>
 
 </div>
----
+
 
 <div align="center">
   <img height="170em" align="right" alt="João Rafael" src="https://i.imgur.com/Ogv2AKo.gif"/>
