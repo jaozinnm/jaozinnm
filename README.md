@@ -147,12 +147,15 @@ Atualmente, estou aprofundando minha base em desenvolvimento backend e bancos de
 
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/jaozinnm/jaozinnm/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jaozinnm/jaozinnm/output/github-contribution-grid-snake-dark.svg">
 
-</div>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jaozinnm/jaozinnm/output/github-contribution-grid-snake.svg">
 
-<div align="center">
-  <a href="https://github.com/jaozinnm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaozinnm&repo=Portfolio-Jo-o-Rafael&theme=radical" alt="Meu portfólio no GitHub"/>
-  </a>
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/jaozinnm/jaozinnm/output/github-contribution-grid-snake.svg">
+  </picture>
+
 </div>
