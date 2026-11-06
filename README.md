@@ -9,14 +9,18 @@ Bem-vindo ao meu perfil! Sou estudante de tecnologia e desenvolvedor em constant
 <div align="center">
 
   <a href="https://github.com/jaozinnm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaozinnm&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=jaozinnm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      alt="Estatísticas do GitHub"/>
   </a>
+
   <a href="https://github.com/jaozinnm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozinnm&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas"/>
+    <img height="180em"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaozinnm&layout=compact&langs_count=7&theme=dark"
+      alt="Linguagens mais utilizadas"/>
   </a>
 
 </div>
-
 ---
 
 <div align="center">
